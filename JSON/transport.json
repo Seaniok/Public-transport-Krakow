@@ -1,0 +1,17 @@
+[
+    {
+        "name":"Autobus",
+        "price": 5,
+        "isComfortable": false,
+        "busnumbers": [
+            "2",
+            "3",
+            "6"
+        ],
+        "average_distance_in_km": 121.5,
+        "isEco": true,
+        "modelname":"Sonalo"
+
+        
+    }
+]
