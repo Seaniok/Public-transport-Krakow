@@ -10,8 +10,12 @@
         ],
         "average_distance_in_km": 121.5,
         "isEco": true,
-        "modelname":"Sonalo"
+        "modelname":"Sonalo",
+        "kloc": true
 
+        
+    },
+    {
         
     }
 ]

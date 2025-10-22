@@ -1,7 +1,31 @@
-<<<<<<< HEAD
+# INTRODUCTION 
+
+Kraków jest pełny wraen pod wzgledem publicznego transportu.
+
+to tamto 
+
+to tamto 
+
+# DATA
+
+tu opisze swoja tabele 
+
+|blah-blah|bla-blah|blah-blah|            
+|---------|--------|---------|
+|kupa|kloc|pop|
+
+# IMAGES
+
+![autobus](autobus.jpg)
+
+dfdsfdsfdsfdsfdsf
 
 
+# TEAM
 
+1. Sean, Wiktor, Wojtek
 
-=======
->>>>>>> c80ce0dc984f367679ec5c038fb2d0a6e6656882
+### Podział zadań
+1. Sean - 1,2
+1. Wiktor - 3,4
+1. Wojtek - 5,6
